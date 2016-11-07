@@ -1,0 +1,6 @@
+D:\UbbCourse1\Exercitii\Exercitii\Exercitii\bin\Debug\Exercitii.exe.config
+D:\UbbCourse1\Exercitii\Exercitii\Exercitii\bin\Debug\Exercitii.exe
+D:\UbbCourse1\Exercitii\Exercitii\Exercitii\bin\Debug\Exercitii.pdb
+D:\UbbCourse1\Exercitii\Exercitii\Exercitii\obj\Debug\Exercitii.csprojResolveAssemblyReference.cache
+D:\UbbCourse1\Exercitii\Exercitii\Exercitii\obj\Debug\Exercitii.exe
+D:\UbbCourse1\Exercitii\Exercitii\Exercitii\obj\Debug\Exercitii.pdb
